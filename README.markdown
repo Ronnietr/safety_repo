@@ -1,3 +1,3 @@
-#safty
+#safety
 
 some description.
